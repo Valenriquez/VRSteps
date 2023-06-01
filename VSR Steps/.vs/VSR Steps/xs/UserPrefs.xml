@@ -1,0 +1,25 @@
+﻿<Properties StartupConfiguration="{73455644-5183-6E3E-E6C8-E418180D7D3B}|">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Scripts/FireBulletOnActivate.cs">
+    <Files>
+      <File FileName="Assets/Scripts/FireBulletOnActivate.cs" Line="24" Column="64" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="VSR Steps" expanded="True">
+            <Node name="Assets" expanded="True" selected="True">
+              <Node name="Scripts" expanded="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="e24b3cc6-7451-4eba-9ff7-64abce500448" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
